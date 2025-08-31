@@ -1,0 +1,16 @@
+{
+    "workingtimer": {
+      "minutes":  25,
+      "sec":0
+    },
+    "shortinterval": {
+        "minutes":  5,
+        "sec":0
+      },
+    "longinterval": {
+        "minutes":  30,
+        "sec": 0
+      },
+    "cyclecounter": 4
+  }
+  
