@@ -32,7 +32,7 @@ const WorkingTime = () => {
                 return 0;
               }
             });
-            return 59; // reset seconds to 59 after minute decreases
+            return 59;
           }
         });
       }, 1000);
